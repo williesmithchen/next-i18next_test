@@ -1,0 +1,7 @@
+{
+  "h1": "一個簡單的範例",
+  "change-locale": "變更語言",
+  "to-second-page": "前往其他頁面",
+  "error-with-status": "一個 {{statusCode}} 錯誤 在server上發生",
+  "error-without-status": "一個錯誤 在server上發生"
+}
